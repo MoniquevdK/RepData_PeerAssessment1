@@ -15,7 +15,7 @@ The variables included are:
 ### Loading and preprocessing the data
 
 First read in the data from csv format: 
-```{r, echo=FALSE}
+```{r, echo=TRUE}
 setwd("~/GitH/Reproducible Research")
 ```
 
